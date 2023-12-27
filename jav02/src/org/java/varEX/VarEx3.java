@@ -2,6 +2,15 @@ package org.java.varEX;
 
 public class VarEx3 {
 
+
+	// 상수 -> 보통 대문자로 작성
+	// 공유 데이터에 많이 사용 -> 다른 클래스에서도 접근 가능
+	// static 
+	final static int MAXNUMBER=10000;
+	final static String PROJECTNAME="Shopping Project 2024";
+	
+	final int MINNUMBER=2000;
+	
 	public static void main(String[] args) {
 		
 		System.out.println("변수명 규칙");
@@ -40,6 +49,8 @@ public class VarEx3 {
 		// 한글명은 권하지 않는다.
 		int 한글 = 100;
 		System.out.println(한글);
+		
+		
 		
 		
 	}
