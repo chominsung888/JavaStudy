@@ -5,6 +5,7 @@ public class VarEx1 {
 		System.out.println("변수");
 		//1. 주소값
 		//2. 주소가 참조 하는 값
+		//3. 변수의 타입과 참조값의 타입이 일치 해야된다.
 		
 		System.out.println("자바의 기본자료형(primitive Type)");
 		//정수형 자료형(타입) -> 10 기본형 int
