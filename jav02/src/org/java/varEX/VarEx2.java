@@ -32,5 +32,9 @@ public class VarEx2 {
 		System.out.println(str1.equals(str3));
 		System.out.println(str3.equals(str4));
 		
+		String userId="m1111";
+		
+		System.out.println(userId.equals("m1111"));
+		
 	}
 }
