@@ -43,7 +43,12 @@ public class VarEx6 {
 	
 			// new객체생성 연산자
 	ClassBasic c1=new ClassBasic();
+			// c1->객체 참조 변수
 	System.out.println(c1);
+	
+	c1.age=10;
+	c1.name="이름1";
+	c1.instanceMethod();
 	
 	
 	
