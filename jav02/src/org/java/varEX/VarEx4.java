@@ -8,6 +8,7 @@ public class VarEx4 {
 		System.out.println(VarEx3.MAXNUMBER);
 		System.out.println(VarEx3.MAXNUMBER);
 		System.out.println(VarEx3.PROJECTNAME);
+		
 	}
 
 }
