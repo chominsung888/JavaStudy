@@ -34,5 +34,8 @@ public class ASCIIEx {
 		System.out.println((char)('b'-32));
 		System.out.println((char)('c'-32));
 		System.out.println((char)('a'+25));
+		
+		
+		
 	}
 }
